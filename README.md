@@ -1,6 +1,6 @@
 # CRUD PHP - MVC - MYSQL - BOOTSTRAP
 
-Un crud de personas.
+Un crud de personas usando mysqli.
 
 ## Screenshot
 
